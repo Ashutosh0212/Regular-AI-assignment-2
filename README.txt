@@ -1,5 +1,5 @@
 AI Assignment - Does the statement follow?
-Ashutosh Ravi Gupta | P25CS0002 | IIT Jodhpur
+Ashutosh Ravi Gupta, P25CS0002
 Submitted: 31 October 2026
 
 CONTENTS
@@ -51,7 +51,8 @@ PUBLIC-DATASET RESULTS (from the notebook; details in report.pdf)
   RuleTaker      2,000  100.00%    1.38 s
   FOLIO            203   61.58%    0.07 s
   CounterBench   1,200   50.42%    0.21 s
-  Overall        3,403   80.22%    1.66 s   (0.49 ms per query, Kaggle CPU)
+  in the Google form we were asked for the avg, hence i submitted (100 + 61.58 + 50.42)/3 = 70.67% 
+  Overall        3,403   80.22%    1.66 s   (0.49 ms per query, Kaggle CPU) this is teh sample weighted overall.
 
 NOTES AND KNOWN LIMITATIONS
   - If a query cannot be parsed, the system falls back to exact string
